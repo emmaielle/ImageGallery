@@ -10,13 +10,6 @@ import UIKit
 
 class ImageCollectionViewCell: UICollectionViewCell {
  
-  
-  @IBOutlet weak var imageView: ImageView!
-  
-  var URL: URL? {
-    didSet {
-      
-    }
-  }
+  @IBOutlet var image: UIImageView!
   
 }

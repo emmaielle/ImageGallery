@@ -15,7 +15,6 @@
 		EB687FA121F75FA5007927C9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EB687F9F21F75FA5007927C9 /* LaunchScreen.storyboard */; };
 		EB687FAA21F768BB007927C9 /* GalleryListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB687FA921F768BB007927C9 /* GalleryListTableViewController.swift */; };
 		FD7605F122219AB400CA871C /* ImageCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD7605F022219AB400CA871C /* ImageCollectionViewCell.swift */; };
-		FD7605F322219FD500CA871C /* ImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD7605F222219FD500CA871C /* ImageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,7 +28,6 @@
 		EB687FA221F75FA5007927C9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EB687FA921F768BB007927C9 /* GalleryListTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalleryListTableViewController.swift; sourceTree = "<group>"; };
 		FD7605F022219AB400CA871C /* ImageCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCollectionViewCell.swift; sourceTree = "<group>"; };
-		FD7605F222219FD500CA871C /* ImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,7 +66,6 @@
 				EB687FA921F768BB007927C9 /* GalleryListTableViewController.swift */,
 				EB687F9821F75F9A007927C9 /* ImageGalleryViewController.swift */,
 				FD7605F022219AB400CA871C /* ImageCollectionViewCell.swift */,
-				FD7605F222219FD500CA871C /* ImageView.swift */,
 				EB687FA221F75FA5007927C9 /* Info.plist */,
 				EB687F9421F75F9A007927C9 /* Products */,
 			);
@@ -160,7 +157,6 @@
 				EB687FAA21F768BB007927C9 /* GalleryListTableViewController.swift in Sources */,
 				EB687F9921F75F9A007927C9 /* ImageGalleryViewController.swift in Sources */,
 				EB36B6E621F8CAC00063138C /* Utilities.swift in Sources */,
-				FD7605F322219FD500CA871C /* ImageView.swift in Sources */,
 				EB687F9721F75F9A007927C9 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

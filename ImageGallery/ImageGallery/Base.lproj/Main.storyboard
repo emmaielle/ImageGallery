@@ -36,7 +36,7 @@
                                     <rect key="frame" x="0.0" y="0.0" width="80" height="80"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
-                                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="qdx-iL-DBl" customClass="ImageView" customModule="ImageGallery" customModuleProvider="target">
+                                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="qdx-iL-DBl" customClass="UIImageView">
                                             <rect key="frame" x="0.0" y="0.0" width="80" height="80"/>
                                             <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         </view>
@@ -48,6 +48,9 @@
                                     <constraint firstAttribute="bottom" secondItem="qdx-iL-DBl" secondAttribute="bottom" id="f5v-gq-rqO"/>
                                     <constraint firstItem="qdx-iL-DBl" firstAttribute="leading" secondItem="RQi-XJ-mo6" secondAttribute="leading" id="t5H-T9-yHV"/>
                                 </constraints>
+                                <connections>
+                                    <outlet property="image" destination="qdx-iL-DBl" id="M7l-yy-Wjb"/>
+                                </connections>
                             </collectionViewCell>
                         </cells>
                         <connections>
@@ -58,7 +61,6 @@
                     <connections>
                         <outlet property="dropZone" destination="n81-WG-gHi" id="jEh-cO-v6b"/>
                         <outlet property="imageCollectionView" destination="dbU-vj-f87" id="GUZ-0N-7I2"/>
-                        <outlet property="imageView" destination="qdx-iL-DBl" id="d12-Y5-fMe"/>
                     </connections>
                 </collectionViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="LRY-Eb-dLV" userLabel="First Responder" sceneMemberID="firstResponder"/>
