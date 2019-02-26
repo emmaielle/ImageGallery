@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ImageGallery/ImageGalleryViewController.swift"
+            timestampString = "572634950.605302"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "ImageGalleryViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ImageGallery.ImageGalleryViewController.dropInteraction(_: __C.UIDropInteraction, performDrop: __C.UIDropSession) -&gt; ()"
+                  moduleName = "ImageGallery"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/moiralasserre/Developer/stanford-image-gallery/ImageGallery/ImageGallery/ImageGalleryViewController.swift"
+                  timestampString = "572634950.8693039"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "49">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;__C.NSItemProviderReading&gt;) -&gt; () in ImageGallery.ImageGalleryViewController.dropInteraction(_: __C.UIDropInteraction, performDrop: __C.UIDropSession) -&gt; ()"
+                  moduleName = "ImageGallery"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/moiralasserre/Developer/stanford-image-gallery/ImageGallery/ImageGallery/ImageGalleryViewController.swift"
+                  timestampString = "572634950.872707"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "53">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
